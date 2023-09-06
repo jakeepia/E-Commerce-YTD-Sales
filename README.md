@@ -9,29 +9,10 @@ The dataset(CSV file) for this analysis is attached and the workspace used is _T
 
 ![](Images/datasource.JPG)
 
-_The data shows U.S Flight Data for the month of January 2019._
-
-## Questions:
-1. What percentage of flights that departed from ‘ATL’ were delayed?
-2. Using an appropriate pictorial representation, show the number of flights that arrived on time for each day of the week. (Assume Sunday is the first day of the week). 
-3. What is the average distance flown by all flights departing from ‘EWR’? 
-4. Using the most appropriate pictorial representation, show the number of flights that departed late for each departure time slot between 0600am till 1159am. 
-5. Using an appropriate pictorial representation, show the portion of all flights that arrived in JFK which arrived on time, cancelled or diverted.
-
 ## Skills/ concepts demonstrated:
-- Power Query (used to create "Day_Name" column)
-- Pivot Table (used to summarize the data)
-- Pivot Chart (used to transform the summarized data into compelling visualizations)
+- Created calculated fields for YTD Sales LOD, PYTD Sales LOD, YoY Sales
+- Created calculated fields for YTD Sales LOD, PYTD Sales LOD, YoY Sales
+- 
 
-## Solutions:
-1.
-![](Images/solution_1.JPG)
 
-2.
-![](Images/solution_2.JPG)
 
-3.
-![](Images/solution_3.JPG)
-
-4.
-![](Images/solution_4.JPG)
