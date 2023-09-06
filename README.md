@@ -5,7 +5,9 @@
 ## Introduction
 Welcome to the E-Commerce project, where I dive deep into the key performance indicators (KPIs) that drive the success of an online business. In this comprehensive analysis, I will explore the profit, sales, order quantity, category, and market trends that have shaped the performance thus far. By examining these KPIs, I aim to gain valuable insights that will inform strategic decisions and drive future growth.
 
-The data set for this assessment can be accessed from https://drive.google.com/file/d/1NbWRCwaQL0-fYAFM0FrGoD3-Hx-ousuT/view?usp=sharing
+The dataset(CSV file) for this analysis is attached and the workspace used is _Tableau_
+
+![](Images/datasource.JPG)
 
 _The data shows U.S Flight Data for the month of January 2019._
 
