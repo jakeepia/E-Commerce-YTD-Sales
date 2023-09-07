@@ -10,9 +10,9 @@ The dataset(CSV file) for this analysis is attached and the workspace used is _T
 ![](Images/datasource.JPG)
 
 ## Skills/ concepts demonstrated:
-- Created calculated fields for YTD Sales LOD, PYTD Sales LOD, YoY Sales
-- Created calculated fields for YTD Sales LOD, PYTD Sales LOD, YoY Sales
-- 
+- Created calculated fields for "YTD Sales LOD, PYTD Sales LOD, YoY Sales"
+- Created calculated fields for "YTD Profit LOD, PYTD Profit LOD, YoY Profit"
+- Created calculated fields for "YTD Order Qty LOD, PYTD Order Qty LOD, YoY Order Qty"
 
 
 
