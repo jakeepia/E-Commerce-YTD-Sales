@@ -14,5 +14,26 @@ The dataset(CSV file) for this analysis is attached and the workspace used is _T
 - Created calculated fields for "YTD Profit LOD, PYTD Profit LOD, YoY Profit"
 - Created calculated fields for "YTD Order Qty LOD, PYTD Order Qty LOD, YoY Order Qty"
 
+## Different KPIs:
+### 1) Sales  
+![](Images/sales.JPG)
 
+### 2) Profit
+![](Images/profit.JPG)
 
+### 3) Order Quantity
+![](Images/orderqty.JPG)
+
+### 4) Market Analysis
+![](Images/market.JPG)
+
+### 5) Top 10 Selling Category
+![](Images/category.JPG)
+
+### 6) Customers Acquired For Each Month
+![](Images/customers.JPG)
+
+## E-Commerce Dashboard
+_Compared to the previous year sales, we are able to see the areas that had a drop and the areas that had an increase._
+
+<br> ![](Images/dashboard.png)
