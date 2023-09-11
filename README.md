@@ -33,7 +33,11 @@ The dataset(CSV file) for this analysis is attached and the workspace used is _T
 ### 6) Customers Acquired For Each Month
 ![](Images/customers.JPG)
 
-## E-Commerce Dashboard
+### E-Commerce Dashboard
 _Compared to the previous year sales, we are able to see the areas that had a drop and the areas that had an increase._
 
 <br> ![](Images/dashboard.png)
+
+## Conclusion:
+In conclusion, this E-Commerce YTD sales analysis dashboard has provided us with a holistic view of our business performance. We have analyzed the profit, sales, order quantity, category, and market trends, enabling us to identify areas of strength and areas that require improvement. Armed with these insights, we can make data-driven decisions to optimize our strategies, enhance customer experience, and ultimately drive greater success in the future. <br>
+With a clear understanding of our KPIs, we are well-positioned to navigate the ever-evolving e-commerce landscape and achieve our business goals.
