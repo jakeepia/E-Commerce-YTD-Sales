@@ -3,7 +3,7 @@
 ![](intro1.JPG)
 
 ## Introduction
-Welcome to the E-Commerce project, where I explore key performance indicators (KPIs) crucial for online business success. This analysis covers profit, sales, order quantity, category, and market trends to provide insights for strategic decisions and future growth
+Welcome to the E-Commerce project, where I explore key performance indicators (KPIs) crucial for online business success. This analysis covers profit, sales, order quantity, category, and market trends to provide insights for strategic decisions and future growth.
 
 The dataset for this analysis is a CSV file, and the tool used is **Tableau**
 
