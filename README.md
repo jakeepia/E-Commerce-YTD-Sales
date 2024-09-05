@@ -1,6 +1,6 @@
 # YTD Sales Analysis
 
-![](Images/intro.JPG)
+![](intro1.JPG)
 
 ## Introduction
 Welcome to the E-Commerce project, where I dive deep into the key performance indicators (KPIs) that drive the success of an online business. In this comprehensive analysis, I will explore the profit, sales, order quantity, category, and market trends that have shaped the performance thus far. By examining these KPIs, I aim to gain valuable insights that will inform strategic decisions and drive future growth.
