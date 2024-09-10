@@ -9,7 +9,7 @@ The dataset for this analysis is a CSV file, and the tool used is **Tableau**
 
 ![](Images/datasource.JPG)
 
-## Skills/ concepts demonstrated:
+## Skills/ Concepts Demonstrated:
 - Created calculated fields for "YTD Sales LOD, PYTD Sales LOD, YoY Sales"
 - Created calculated fields for "YTD Profit LOD, PYTD Profit LOD, YoY Profit"
 - Created calculated fields for "YTD Order Qty LOD, PYTD Order Qty LOD, YoY Order Qty"
